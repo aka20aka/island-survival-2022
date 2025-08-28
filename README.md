@@ -1,1 +1,12 @@
-this is a test and very raw game but I will be very glad if you download it)
+# Island Survival 2022
+
+This is a Scratch/TurboWarp project.
+
+- Open `index.html` for the main page (play + download).
+- Or go to `play.html` for full screen play.
+
+Files included:
+- `index.html`
+- `play.html`
+- `game.sb3`
+- `assets/style.css`
